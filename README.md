@@ -11,3 +11,4 @@ It allows users to see the latest news from different sources
 5- easy search in last news
 6- webview for full article
 
+
