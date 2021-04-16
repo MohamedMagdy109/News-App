@@ -5,6 +5,7 @@ It allows users to see the latest news from different sources
 # Advantages
 
 1- push notification
+
 2- Work manager "app works in background"
 3- responsive design "mobile/tablet/web"
 4- network connection alert
