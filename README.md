@@ -80,6 +80,12 @@ It allows users to see the latest news from different sources
 ![WhatsApp Image 2021-04-16 at 6 37 02 AM (4)](https://user-images.githubusercontent.com/48440396/114973069-f5fd8580-9e7f-11eb-9e9b-a563969a3968.jpeg)
 
 
+10 - notification
+
+![WhatsApp Image 2021-04-16 at 6 56 13 AM](https://user-images.githubusercontent.com/48440396/114973515-e468ad80-9e80-11eb-99e4-bda0d7a16a70.jpeg)
+
+
+
 
 
 
