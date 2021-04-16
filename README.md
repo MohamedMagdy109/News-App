@@ -12,6 +12,7 @@ It allows users to see the latest news from different sources
 6- webview for full article
 
 1- splash sceen 
+
 ![WhatsApp Image 2021-04-16 at 6 10 37 AM](https://user-images.githubusercontent.com/48440396/114970402-ad8f9900-9e7a-11eb-9872-df067375d0f5.jpeg)
 
 
