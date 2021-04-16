@@ -67,7 +67,7 @@ It allows users to see the latest news from different sources
 ![WhatsApp Image 2021-04-16 at 6 37 02 AM (1)](https://user-images.githubusercontent.com/48440396/114972931-b5057100-9e7f-11eb-9522-ef8eefcf7f27.jpeg)
 
 
-8 - tablet viwe
+8 - tablet view
 
 ![WhatsApp Image 2021-04-16 at 6 37 02 AM (2)](https://user-images.githubusercontent.com/48440396/114972977-c8184100-9e7f-11eb-86ca-41e243700dce.jpeg)
 
